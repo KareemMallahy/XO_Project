@@ -1,0 +1,9 @@
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\bin\Debug\ProjectDataStorage (XO).exe.config
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\bin\Debug\ProjectDataStorage (XO).exe
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\bin\Debug\ProjectDataStorage (XO).pdb
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\obj\Debug\ProjectDataStorage (XO).csprojAssemblyReference.cache
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\obj\Debug\ProjectDataStorage__XO_.Properties.Resources.resources
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\obj\Debug\ProjectDataStorage (XO).csproj.GenerateResource.cache
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\obj\Debug\ProjectDataStorage (XO).csproj.CoreCompileInputs.cache
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\obj\Debug\ProjectDataStorage (XO).exe
+C:\Users\STW\Desktop\ProjectDataStorage (XO)\ProjectDataStorage (XO)\obj\Debug\ProjectDataStorage (XO).pdb
